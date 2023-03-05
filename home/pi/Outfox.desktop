@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Outfox
+Exec=/home/pi/OutFox/OutFox
+Terminal=false
+Type=Application
+NoDisplay=false
+Icon=/home/pi/OutFox/Data/splash.png
+StartupNotify=true
